@@ -1,1 +1,2 @@
-# Week-1
+# Waste Classification using CNN
+## Week-1
